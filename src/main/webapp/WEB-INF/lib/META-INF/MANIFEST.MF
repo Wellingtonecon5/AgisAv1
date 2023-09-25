@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Bundle-Description: Jakarta Expression Language 4.0
+Automatic-Module-Name: jakarta.el
+Bundle-License: https://www.eclipse.org/org/documents/epl-2.0/EPL-2.0.
+ txt, https://www.gnu.org/software/classpath/license.html
+Bundle-SymbolicName: jakarta.el-api
+Implementation-Version: 4.0.0
+Built-By: jenkins
+Bnd-LastModified: 1597941398313
+Bundle-ManifestVersion: 2
+Specification-Vendor: Eclipse Foundation
+Bundle-DocURL: https://www.eclipse.org
+Bundle-Vendor: Eclipse Foundation
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-4.2.0.201903051501
+Implementation-Vendor: Eclipse Foundation
+Export-Package: jakarta.el;version="4.0.0"
+Bundle-Name: Jakarta Expression Language API
+Bundle-Version: 4.0.0
+Extension-Name: jakarta.el
+Build-Jdk-Spec: 1.8
+Created-By: Apache Maven Bundle Plugin
+Build-Jdk: 1.8.0_202
+Specification-Version: 4.0
+
